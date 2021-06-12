@@ -3,3 +3,5 @@
  /mylogs.log
  
 /logs.log
+*.log
+ignore/
